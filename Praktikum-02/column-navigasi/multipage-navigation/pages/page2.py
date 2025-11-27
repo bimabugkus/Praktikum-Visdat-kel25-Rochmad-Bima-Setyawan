@@ -1,0 +1,5 @@
+import streamlit as st
+
+# Halaman kedua
+st.title("# Page 2")
+st.write("You have navigated to Page Two")
